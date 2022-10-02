@@ -1,1 +1,3 @@
-# lambdacode-dev.github.io
+---
+title: Welcome to lambdacode.dev's blog
+---
